@@ -63,7 +63,7 @@
 <img width="1572" height="903" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/034403c2-8815-4f97-9b5d-341c20b1065b" />
 
 ### Name: Jaya Vishwa S
-### Register Number:212224230105
+### Register Number: 212224230105
 
 
 ## Result: 
